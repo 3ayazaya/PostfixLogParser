@@ -1,2 +1,9 @@
-# PostfixLogParser
-Postfix mail log parser
+# Описание 
+- Скрипт парсит данные из лог-файла в файл формата csv на основании параметров, указанных в списке скрипта.
+- Для запуска необходимо переименовать лог-файл как "maillog.txt" и закинуть его в ту же директорию, где и скрипт.
+
+# Запуск
+- `$ git clone https://github.com/3ayazaya/PostfixLogParser`
+- `$ cd PostfixLogParser`
+- `$ npm start`
+- Файл с расширением  .csv сохранится в той же директории
