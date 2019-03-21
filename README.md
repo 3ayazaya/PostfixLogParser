@@ -6,4 +6,4 @@
 - `$ git clone https://github.com/3ayazaya/PostfixLogParser`
 - `$ cd PostfixLogParser`
 - `$ npm start`
-- Файл с расширением  .csv сохранится в той же директории
+- Файл с расширением  .csv сохранится в той же директории!
